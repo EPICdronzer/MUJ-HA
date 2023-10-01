@@ -1,0 +1,190 @@
+.credit-c-1-child {
+  position: absolute;
+  top: calc(50% - 213.76px);
+  left: calc(50% - 364.5px);
+  border-radius: var(--br-29xl-6);
+  background: linear-gradient(108.5deg, #001f3f, #0074a2);
+  border: 1px solid #333;
+  box-sizing: border-box;
+  width: 729px;
+  height: 427.53px;
+}
+.credit-c-1-inner,
+.credit-c-1-item {
+  position: absolute;
+  top: 97.96px;
+  left: 257.43px;
+  border-radius: 50%;
+  background: linear-gradient(108.5deg, #0074a2, #001f3f);
+  width: 121.5px;
+  height: 121.5px;
+  opacity: 0.7;
+}
+.credit-c-1-inner {
+  top: 219.46px;
+  left: 470.05px;
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}
+.rectangle-div {
+  position: absolute;
+  top: 317.42px;
+  left: 0;
+  border-radius: 0 0 var(--br-29xl-6) var(--br-29xl-6);
+  background: linear-gradient(180deg, #000 0.01%, #403f3f 99.99%, #525252);
+  width: 729px;
+  height: 110.11px;
+}
+.div {
+  position: relative;
+  text-shadow: 3.796875px 3.0375001430511475px 10.63px rgba(51, 51, 51, 0.25);
+}
+.parent {
+  position: absolute;
+  top: 233.89px;
+  left: calc(50% - 273.38px);
+  width: 546.75px;
+  height: 59.23px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.jenny-wilson {
+  position: relative;
+  text-shadow: 3.0375001430511475px 2.278125047683716px 6.08px
+    rgba(51, 51, 51, 0.25);
+}
+.vector-icon {
+  position: relative;
+  width: 28.1px;
+  height: 31.89px;
+}
+.group,
+.jenny-wilson-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.group {
+  box-shadow: 3.0375001430511475px 2.278125047683716px 6.08px
+    rgba(51, 51, 51, 0.25);
+  justify-content: flex-start;
+  gap: 30.38px;
+}
+.jenny-wilson-parent {
+  position: absolute;
+  top: 353.87px;
+  left: calc(50% - 273.38px);
+  width: 546.75px;
+  height: 37.21px;
+  justify-content: space-between;
+  font-size: 30.38px;
+}
+.group-icon {
+  position: absolute;
+  height: 17.41%;
+  width: 14.37%;
+  top: 31.08%;
+  right: 73.54%;
+  bottom: 51.51%;
+  left: 12.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.credit-c-1,
+.credit-c-1-child1 {
+  position: absolute;
+  top: calc(50% - 153.01px);
+  left: calc(50% + 208.07px);
+  width: 65.31px;
+  height: 39.49px;
+}
+.credit-c-1 {
+  top: calc(50% - 451px);
+  left: calc(50% - 378px);
+  box-shadow: 4px 4px 32px rgba(0, 0, 0, 0.5);
+  width: 729px;
+  height: 427.53px;
+  font-size: var(--font-size-29xl-6);
+  color: var(--color-whitesmoke-100);
+}
+.previous-cards {
+  position: absolute;
+  top: 563px;
+  left: calc(50% - 66px);
+}
+.text {
+  position: relative;
+}
+.text-wrapper {
+  flex: 1;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 48px;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.frame-div,
+.instance-parent,
+.text-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.instance-parent {
+  width: 891px;
+  gap: 32px;
+}
+.frame-div {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 48px;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.frame-parent,
+.text4 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.frame-parent {
+  top: 608px;
+  left: 300px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 21px;
+}
+.text4 {
+  top: 788px;
+  left: calc(50% - 182px);
+  border-radius: 16px;
+  background-color: #92001d;
+  width: 409px;
+  height: 64px;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-5xs) var(--padding-base);
+  box-sizing: border-box;
+  font-size: var(--font-size-5xl);
+  color: #f3f3f3;
+}
+.checkout-1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+a{
+  text-decoration:none;
+  color:black;
+}

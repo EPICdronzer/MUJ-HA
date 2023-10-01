@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-11xl-4: 30.4px;
+  --font-size-29xl-6: 48.6px;
+
+  /* Colors */
+  --color-whitesmoke-100: #f5f5f5;
+  --color-black: #000;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+  --padding-base: 16px;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-29xl-6: 48.6px;
+}

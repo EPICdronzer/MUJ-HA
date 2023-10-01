@@ -1,0 +1,109 @@
+.abstracts-1-1 {
+  border-radius: 12px;
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+}
+.abstracts-1-1,
+.monta-la {
+  position: relative;
+}
+.abstracts-1-1-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.maria-rodriguez {
+  position: relative;
+  color: #2e2e2e;
+}
+.artist-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-size: var(--font-size-xl);
+}
+.monta-la-is {
+  margin: 0;
+}
+.monta-la-is-container {
+  position: relative;
+  font-size: 16px;
+  display: inline-block;
+  width: 983px;
+}
+.description-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.b {
+  font-size: var(--font-size-5xl);
+}
+.frame-div,
+.frame-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+}
+.frame-div {
+  align-items: flex-start;
+  font-size: var(--font-size-xl);
+}
+.frame-group {
+  align-items: center;
+}
+.frame-parent,
+.text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text {
+  border-radius: 16px;
+  background-color: #92001d;
+  width: 409px;
+  height: 64px;
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+  box-sizing: border-box;
+  font-size: var(--font-size-5xl);
+  color: #f3f3f3;
+}
+.frame-parent {
+  position: absolute;
+  top: calc(50% - 429px);
+  left: calc(50% - 491px);
+  flex-direction: column;
+  gap: var(--gap-13xl);
+}
+.down-circle-svgrepocom-icon {
+  position: absolute;
+  top: 83px;
+  left: 189px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.artwork {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 36px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+a{
+  text-decoration:none;
+  color:black;
+}

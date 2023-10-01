@@ -1,0 +1,117 @@
+.abstracts-1-1 {
+  border-radius: 12px;
+  width: 240px;
+  height: 200px;
+  object-fit: cover;
+}
+.abstracts-1-1,
+.name-monta-container {
+  position: relative;
+}
+.artist-maria-container {
+  position: relative;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+}
+.name-monta-la-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15px;
+}
+.abstracts-1-1-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+}
+.cart-shopping-svgrepocom-icon {
+  position: relative;
+  border-radius: var(--br-5xs);
+  width: 60px;
+  height: 60px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.buy-parent {
+  border-radius: 16px;
+  background-color: #92001d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 40px;
+  gap: 8px;
+}
+.remove {
+  position: relative;
+  color: var(--color-darkslategray);
+}
+.frame-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  font-size: var(--font-size-5xl);
+  color: #f2f2f2;
+}
+.frame-parent {
+  position: absolute;
+  top: 259px;
+  left: calc(50% - 599px);
+  width: 1199px;
+  justify-content: space-between;
+  font-family: var(--font-inter);
+}
+.artists-parent,
+.artvista-parent,
+.frame-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.artists-parent {
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+}
+.artvista-parent {
+  position: absolute;
+  top: -3575px;
+  left: -403.5px;
+  justify-content: center;
+  gap: var(--gap-280xl);
+}
+.artvista-group,
+.artvista-parent,
+.cart {
+  background-color: var(--color-white);
+}
+.artvista-group {
+  position: absolute;
+  top: 47px;
+  left: calc(50% - 634px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-280xl);
+}
+.cart {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-oregano);
+}
+a{
+  text-decoration:none;
+  color:black;
+}

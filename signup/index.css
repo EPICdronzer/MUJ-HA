@@ -1,0 +1,206 @@
+.union-icon {
+  position: relative;
+  width: 1440px;
+  height: 274px;
+}
+.mask-group-icon {
+  position: absolute;
+  height: 26.76%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 73.24%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.sign-up {
+  position: absolute;
+  top: 71px;
+  left: calc(50% - 65px);
+}
+.already-have-an,
+.login {
+  position: absolute;
+  top: 368px;
+}
+.already-have-an {
+  left: calc(50% - 164px);
+  font-weight: 500;
+}
+.login {
+  left: calc(50% + 105px);
+  color: var(--color-darkviolet-100);
+  cursor: pointer;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 360px);
+  border-radius: var(--br-base);
+  border: 1px solid var(--color-darkviolet-100);
+  box-sizing: border-box;
+  width: 720px;
+  height: 64px;
+}
+.mask-group-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.login-with-google {
+  position: absolute;
+  top: 8px;
+  left: calc(50% - 65.5px);
+}
+.mask-group-parent {
+  position: absolute;
+  top: 12px;
+  left: 234px;
+  width: 253px;
+  height: 40px;
+}
+.group-wrapper,
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 360px);
+  width: 720px;
+  height: 64px;
+}
+.group-wrapper {
+  top: 448px;
+}
+.email-id {
+  position: absolute;
+  top: 20px;
+  left: calc(50% - 328px);
+}
+.group-inner,
+.rectangle-group {
+  position: absolute;
+  width: 720px;
+  height: 64px;
+}
+.rectangle-group {
+  top: 96px;
+  left: calc(50% - 360px);
+}
+.group-inner {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  border: 1px solid var(--color-darkviolet-100);
+  box-sizing: border-box;
+}
+.component-4-icon {
+  position: absolute;
+  top: 8px;
+  left: 640px;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
+.rectangle-container,
+.rectangle-div {
+  position: absolute;
+  top: 192px;
+  left: 0;
+  width: 720px;
+  height: 64px;
+}
+.rectangle-div {
+  top: 0;
+  border-radius: var(--br-base);
+  border: 1px solid var(--color-darkviolet-100);
+  box-sizing: border-box;
+  width: 328px;
+}
+.first-name {
+  position: absolute;
+  top: 20px;
+  left: calc(50% - 132px);
+}
+.group-div {
+  position: relative;
+  width: 328px;
+  height: 64px;
+}
+.group-parent {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 360px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 64px;
+}
+.frame-child {
+  position: relative;
+  border-top: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 313px;
+  height: 1px;
+}
+.or {
+  position: relative;
+  font-weight: 500;
+}
+.line-parent {
+  position: absolute;
+  top: 408px;
+  left: 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.continue {
+  position: relative;
+}
+.already-have-an-account-parent,
+.continue-wrapper {
+  position: absolute;
+  left: calc(50% - 360px);
+  width: 720px;
+}
+.continue-wrapper {
+  top: 288px;
+  background-color: var(--color-darkviolet-200);
+  height: 64px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-base) var(--padding-45xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-9xl);
+  color: var(--color-whitesmoke-100);
+}
+.already-have-an-account-parent {
+  top: 306px;
+  height: 512px;
+  font-size: var(--font-size-xl);
+}
+.desktop-sign-up {
+  position: relative;
+  background-color: #f0f0f0;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 32px;
+  color: var(--color-darkslategray);
+  font-family: var(--font-montserrat);
+}
+a{
+  text-decoration:none;
+  color:black;
+}
